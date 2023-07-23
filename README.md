@@ -9,8 +9,6 @@ from Poland</h3>
 <h3>I'm a Junior Automation QA engineer getting started my career in IT.
 All coding projects are built from my knowledge, to constantly develop my skills.
 My goal is to improve as a better QA and to apply knowledge and competence to success.</h3>
-<h1 align="center">Hi 👋, I'm Rafał Wróblewski</h1>
-<h3 align="center">A passionate Automation Software enginieer | QA from Poland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
