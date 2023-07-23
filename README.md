@@ -2,8 +2,16 @@
 
 ## Software Enginier | QA Automation
 
+#### I am a Junior QA enginieer getting statred my career in IT.
+I would like to constantly develop my skills by taking part in various kinds of initiatives and projects.
+My goal is to improve as a better QA and to apply knowledge and competence to the succes.
+
+In this place, I'll want to present my activities related to my skill development so that you may view them.
+
+
+
 <!--
-**Kuba-Wroblewski/Kuba-Wroblewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kuba-Wroblewski/Kuba-Wroblewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
