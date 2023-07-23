@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello I'm Rafał Wróblewski 👋
+
+## Software Enginier | QA Automation
 
 <!--
 **Kuba-Wroblewski/Kuba-Wroblewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
