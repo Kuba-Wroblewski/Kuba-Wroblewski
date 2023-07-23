@@ -10,7 +10,7 @@ In this place, I'll want to present my activities related to my skill developmen
 
 
 <h1 align="center">Hi 👋, I'm Rafał Wróblewski</h1>
-<h3 align="center">A passionate Automation Software enginieer from Poland</h3>
+<h3 align="center">A passionate Automation Software enginieer | QA from Poland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
