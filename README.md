@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuba-wroblewski" alt="kuba-wroblewski" /></a> </p>
 
-- 🌱 I’m currently learning **Playwright, Java**
-
-- 📫 How to reach me **j.rafal.wroblewski@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+<h3>I'm a Junior Automation QA engineer getting started my career in IT.
+All coding projects are built from my knowledge, to constantly develop my skills.
+My goal is to improve as a better QA and to apply knowledge and competence to success.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
