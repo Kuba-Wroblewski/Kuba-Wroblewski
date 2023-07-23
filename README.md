@@ -1,6 +1,3 @@
-# Hello I'm Rafał Wróblewski 👋
-
-## Software Enginier | QA Automation
 
 I am a Junior QA enginieer getting statred my career in IT.
 I would like to constantly develop my skills by taking part in various kinds of initiatives and projects.
