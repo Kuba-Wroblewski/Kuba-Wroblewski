@@ -1,10 +1,3 @@
-
-I am a Junior QA enginieer getting statred my career in IT.
-I would like to constantly develop my skills by taking part in various kinds of initiatives and projects.
-My goal is to improve as a better QA and to apply knowledge and competence to the succes.
-
-In this place, I'll want to present my activities related to my skill development so that you may view them.
-
 <h1 align="center">Hi 👋, I'm Rafał Wróblewski</h1>
 <h3 align="center">A passionate Automation Software enginieer from Poland</h3>
 
