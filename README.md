@@ -56,7 +56,7 @@ My goal is to improve as a better QA and to apply knowledge and competence to su
 </p>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+<a href="https://paypal.me/jakub19850219"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
 </a>
 <a href='https://ko-fi.com/kubawroblewski' target='_blank'><img height='30' width="125" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' alt='https://ko-fi.com/kubawroblewski' />
 </a>
