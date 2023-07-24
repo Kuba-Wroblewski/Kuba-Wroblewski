@@ -51,4 +51,14 @@ My goal is to improve as a better QA and to apply knowledge and competence to su
 
 <h2></h2>
 
-<p><a href="https://ko-fi.com/https://ko-fi.com/kubawroblewski"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/kubawroblewski" /></a></p><br><br>
+<p align="center">
+<i>Loved the site? Please consider <a href="https://paypal.me/jakub19850219">donating</a>  💸 to help it improve!</i>
+</p>
+
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+</a>
+<a href='https://ko-fi.com/kubawroblewski' target='_blank'><img height='30' width="125" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' alt='https://ko-fi.com/kubawroblewski' />
+</a>
+<a href="https://www.buymeacoffee.com/jrafalwrobx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+</p>
