@@ -15,7 +15,6 @@ My goal is to improve as a better QA and to apply knowledge and competence to su
 <a href="https://twitter.com/rafalwroblews85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafalwroblews85" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/jakub-wr%c3%b3blewski-r-j-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jakub-wr%c3%b3blewski-r-j-w" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17798749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17798749" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/emil.emilja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/emil.emilja" height="30" width="40" /></a>
 <a href="https://discord.gg/Kuba.W#7723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kuba.W#7723" height="30" width="40" /></a>
 </p>
 
