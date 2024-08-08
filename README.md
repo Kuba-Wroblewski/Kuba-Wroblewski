@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuba-wroblewski&label=Profile%20views&color=0e75b6&style=flat" alt="kuba-wroblewski" /> </p>
 
-<h3>I'm a Junior Automation QA engineer getting started my career in IT.
-All coding projects are built from my knowledge, to constantly develop my skills.
-My goal is to improve as a better QA and to apply knowledge and competence to success.</h3>
+<h3>Jestem Młodszym Inżynierem Automatyzacji QA na początku mojej kariery w IT. Wszystkie moje projekty kodowania opierają się na mojej wiedzy, którą stale rozwijam, aby podnosić swoje umiejętności. Oprócz mojej pasji do automatyzacji i zapewniania jakości, interesuję się również wsparciem helpdesk, które uzupełnia moją wiedzę techniczną. Moim celem jest rozwój jako lepszy specjalista QA i zastosowanie mojej wiedzy i kompetencji, aby osiągnąć sukces zarówno w rolach automatyzacji, jak i helpdesku.</h3>
 
 <h2></h2>
 
