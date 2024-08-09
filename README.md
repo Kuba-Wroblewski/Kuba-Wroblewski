@@ -22,9 +22,7 @@ to<h1 align="center">Hi 👋, I'm Rafał Wróblewski</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
-  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-width" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/>
   </a>
