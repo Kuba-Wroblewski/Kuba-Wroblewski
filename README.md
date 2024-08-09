@@ -55,9 +55,7 @@ to<h1 align="center">Hi 👋, I'm Rafał Wróblewski</h1>
 </p>
 
 <p align="center">
-<a href="https://paypal.me/jakub19850219"><img align="center" src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
-</a>
-<a href='https://ko-fi.com/kubawroblewski' target='_blank'><img align="center"  height='30' width="125" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' alt='https://ko-fi.com/kubawroblewski' />
-</a>
-<a href="https://www.buymeacoffee.com/jrafalwrobx" target="_blank"><img align="center"  src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+<a href="https://paypal.me/jakub19850219"><img align="center" src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator" /></a>
+<a href="https://ko-fi.com/kubawroblewski" target="_blank"><img align="center" height="30" width="125" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="https://ko-fi.com/kubawroblewski" /></a>
+<a href="https://www.buymeacoffee.com/jrafalwrobx" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
 </p>
