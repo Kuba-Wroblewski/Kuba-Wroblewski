@@ -20,7 +20,7 @@ to<h1 align="center">Hi 👋, I'm Rafał Wróblewski</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-width" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-width" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" /></a>
   <a href="https://boringowl.io/tag/html5" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" /></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="35" /></a>
@@ -34,7 +34,9 @@ to<h1 align="center">Hi 👋, I'm Rafał Wróblewski</h1>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="35" /></a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="35" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="35" /></a>
-  <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="35" /</p>
+  <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="35" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /
+  </p>
 
 
 <h2></h2>
