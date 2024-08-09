@@ -35,7 +35,7 @@ to<h1 align="center">Hi 👋, I'm Rafał Wróblewski</h1>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="35" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="35" /></a>
   <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="35" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /
   </p>
 
 
